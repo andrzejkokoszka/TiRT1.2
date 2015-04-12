@@ -1,0 +1,18 @@
+{"parametersHost": "localhost:9000",
+"inputs": {
+  "videoInputModified": {
+    "ip": "127.0.0.1",
+    "port": 11001
+  },
+  "videoInputOrigin": {
+    "ip": "127.0.0.1",
+    "port": 13005
+  }
+},
+"outputs": {
+
+},
+"parameters": {
+
+  }
+}

@@ -1,0 +1,105 @@
+{"parametersHost": "localhost:11110",
+"inputs": {
+  "masterService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 11000
+  },
+  "masterService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 11002
+  },
+  "preprocessingService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 13001
+  },
+  "preprocessingService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 13003
+  },
+  "resizeService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 14001
+  },
+  "resizeService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 14003
+  },
+  "filterGrayService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 12001
+  },
+  "filterGrayService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 12003
+  },
+  "brightnessService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 15001
+  },
+  "brightnessService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 15003
+  },
+  "contrastService_videoInput": {
+    "ip": "127.0.0.1",
+    "port": 16001
+  },
+  "contrastService_settingsInput": {
+    "ip": "127.0.0.1",
+    "port": 16003
+  }
+},
+"outputs": {
+  "masterService_videoOutput": {
+      "ip": "127.0.0.1",
+      "port": 11001
+  },
+  "masterService_settingsOutput": {
+      "ip": "127.0.0.1",
+      "port": 11003
+  },
+  "preprocessingService_videoOutput": {
+    "ip": "127.0.0.1",
+    "port": 13000
+  },
+  "preprocessingService_settingsOutput": {
+    "ip": "127.0.0.1",
+    "port": 13002
+  },
+  "resizeService_videoOutput": {
+    "ip": "127.0.0.1",
+    "port": 14000
+  },
+  "resizeService_settingsOutput": {
+    "ip": "127.0.0.1",
+    "port": 14002
+  },
+  "filterGrayService_videoOutput": {
+    "ip": "127.0.0.1",
+    "port": 12000
+  },
+  "filterGrayService_settingsOutput": {
+    "ip": "127.0.0.1",
+    "port": 12002
+  },
+  "brightnessService_videoOutput": {
+    "ip": "127.0.0.1",
+    "port": 15000
+  },
+  "brightnessService_settingsOutput": {
+    "ip": "127.0.0.1",
+    "port": 15002
+  },
+  "contrastService_videoOutput": {
+    "ip": "127.0.0.1",
+    "port": 16000
+  },
+  "contrastService_settingsOutput": {
+    "ip": "127.0.0.1",
+    "port": 16002
+  }
+},
+"parameters": {
+
+  }
+}
